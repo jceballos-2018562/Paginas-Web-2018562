@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans&family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #000098;
+    background-size: cover;
+  }
+  
+  .box {
+    width: 500px;
+    background: #FF7F14;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    color: rgb(255, 255, 255);
+    font-family: 'Unbounded', cursive;
+    border-radius: 15px;
+  }
+  
+  .box-img {
+    border-radius: 50%;
+  }
+  
+  .box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    margin: 30px 0 20px;
+    font-family: 'Unbounded', cursive;
+  }
+  
+  .box h2 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 30px;
+    font-family: 'Public Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .box p {
+    text-align: justify;
+    font-family: 'Public Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  #final {
+    background-color: white;
+    margin: 1px;
+    font-family: 'Unbounded', cursive;
+    color: #000098;
+    border-radius: 1px;
+}
+  
